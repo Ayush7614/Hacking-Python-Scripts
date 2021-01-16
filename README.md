@@ -5,3 +5,11 @@
   <a href = https://nodejs.org/en/ ><img src="https://img.shields.io/badge/language-Nodejs-blue?style=for-the-badge"></a>
  </p>
 
+<center><h1 align="center">Technologies Used</h1></center>
+<p align="center">
+<img height="200" width ="200" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/pythonlogo.jfif"></img>
+<img height="200" width ="300" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/javascriptlogo.png"></img>
+<img height="200" width ="200" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/javalogo.png"></img>
+<img height="200" width ="400" src = "https://github.com/Tejas1510/Hacking-Scripts/blob/main/assets/htmllogo.jfif"></img>
+</p>
+
