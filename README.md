@@ -2,6 +2,7 @@
 
 #### Hacker Scripts contains amazing and awesome scripts written in Python, JavaScript, Java, Nodejs, and more. The main aim of the repository will be to provide utility scripts that might make everyday life easy.
 
+## 📢 Join Official Slack channel for Discussion about the project : [Hacker-Scripts](https://join.slack.com/t/newworkspace-qys6582/shared_invite/zt-jgc5kxhj-1aRzM4zNRwa9XRMkf1AeGQ)
 
 
 <p align="center">
