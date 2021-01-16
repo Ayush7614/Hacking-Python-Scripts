@@ -66,6 +66,26 @@ git push
 
 **9.** **Congratulations!** Sit and relax, you've made your contribution to [Hacker-Scripts](https://github.com/Ayush7614/Hacker-Scripts) project.
 
+## ❤️ Project Admin
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Ayush7614">
+            <img src="https://avatars0.githubusercontent.com/u/64543913?s=400&u=6468d71695b9ce8fc4a5704cfe7df32fdd28437a&v=4" width="200px;" alt="" style="border-radius:50%"/> <br />
+            <b>Ayush7614</b>
+            </a><br />
+            <a href="https://github.com/Tejas1510/Awesome-Javascript-and-React-Project/commits?author=Ayush7614" title="Coding">💻</a>
+        </td>
+ </tr>
+ </table>
+
+<p align = "center">
+
+<a href="https://github.com/Tejas1510"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
+![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
+</p>
+
+Check out my Github profile [Ayush7614!](https://github.com/Tejas1510)
 
 
 
