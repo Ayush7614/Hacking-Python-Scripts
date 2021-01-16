@@ -1,4 +1,4 @@
-![Hacking-Scripts](https://socialify.git.ci/Ayush7614/Hacker-Scripts/image?description=1&descriptionEditable=Hacking%20Scripts%20contains%20amazing%20and%20awesome%20scripts%20written%20in%20Python%2C%20JavaScript%2C%20Java%2C%20Nodejs%2C%20and%20more.&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![Hacker-Scripts](https://socialify.git.ci/Ayush7614/Hacker-Scripts/image?description=1&descriptionEditable=Hacking%20Scripts%20contains%20amazing%20and%20awesome%20scripts%20written%20in%20Python%2C%20JavaScript%2C%20Java%2C%20Nodejs%2C%20and%20more.&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 <p align="center">
   <a href = https://www.python.org/ ><img src="https://img.shields.io/badge/language-Python-blue?style=for-the-badge"></a>
