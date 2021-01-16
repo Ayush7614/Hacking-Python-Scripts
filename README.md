@@ -64,7 +64,7 @@ git push
 
 **8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [Hacker-Scripts](https://github.com/Tejas1510/Hacking-Scripts) project.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [Hacker-Scripts](https://github.com/Ayush7614/Hacker-Scripts) project.
 
 
 
