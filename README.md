@@ -85,7 +85,7 @@ git push
 ![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
 </p>
 
-Check out my Github profile [Ayush7614!](https://github.com/Tejas1510)
+Check out my Github profile [Ayush7614!](https://github.com/Ayush7614)
 
 
 
