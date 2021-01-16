@@ -30,3 +30,42 @@ Refer to the following articles on the basics of Git and Github and can also con
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## ⭐ Contribution:
+**1.** Fork [this](https://github.com/Ayush7614/Hacker-Scripts/) repository.
+Click on the <a href="https://github.com/Tejas1510/Hacking-Scripts/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+
+**2.** Clone the forked repository.
+
+```bash
+git clone https://github.com/<your-github-username>/Hacker-Scripts
+```
+
+**3.** Navigate to the project directory.
+
+```bash
+cd Hacking-Scripts
+```
+
+**4.** Make changes in source code.
+
+**5.** Stage your changes and commit
+
+```bash
+#Add changes to Index
+git add .
+
+#Commit to the local repo
+git commit -m "<your_commit_message>"
+**7.** Push your local commits to the remote repo.
+
+```bash
+git push
+```
+
+**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
+
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [Hacker-Scripts](https://github.com/Tejas1510/Hacking-Scripts) project.
+
+
+
+
