@@ -71,7 +71,7 @@ git push
     <tr>
         <td align="center">
             <a href="https://github.com/Ayush7614">
-            <img src="https://avatars0.githubusercontent.com/u/64543913?s=400&u=6468d71695b9ce8fc4a5704cfe7df32fdd28437a&v=4" width="200px;" alt="" style="border-radius:50%"/> <br />
+            <img src="https://github.com/Ayush7614/Hacker-Scripts/blob/main/67006255.jpg" width="200px;" alt="" style="border-radius:50%"/> <br />
             <b>Ayush7614</b>
             </a><br />
             <a href="https://github.com/Ayush7614/Awesome-Javascript-and-React-Project/commits?author=Ayush7614" title="Coding">💻</a>
